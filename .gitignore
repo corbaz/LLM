@@ -1,0 +1,55 @@
+# 🔥 Entorno virtual
+env310/
+*.pyc
+__pycache__/
+
+# 📦 Archivos temporales o de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# 🧪 Archivos generados durante ejecución
+resumen.txt
+texto.txt
+
+# 🗂️ Archivos auxiliares de árbol o salida
+arbol.txt
+
+# 📄 VSCode config (opcional)
+.vscode/
+
+# 🚫 Backups de editor
+*~
+*.bak
+# 🔥 Entorno virtual
+env310/
+*.pyc
+__pycache__/
+
+# 📦 Archivos temporales o de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# 🧪 Archivos generados durante ejecución
+resumen.txt
+texto.txt
+
+# 🗂️ Archivos auxiliares de árbol o salida
+arbol.txt
+
+# 📄 VSCode config (opcional)
+.vscode/
+
+# 🚫 Backups de editor
+*~
+*.bak
+
+# Ignorar entorno virtual
+env310/
+
+# Ignorar archivos de Gradio
+.gradio/
+
+# Ignorar archivos temporales/resúmenes
+resumen-*.txt

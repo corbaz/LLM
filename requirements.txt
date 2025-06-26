@@ -1,0 +1,8 @@
+transformers
+torch
+sentencepiece
+protobuf
+gradio==5.34.2
+deep-translator
+beautifulsoup4
+requests
